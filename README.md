@@ -15,6 +15,6 @@ NFT Marketplace that enables creation, sale and purchase of digital art as NFT's
 - [Ganache](https://www.trufflesuite.com/ganache)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
+- [JavaScript](https://www.learn-js.org/)
 
 
