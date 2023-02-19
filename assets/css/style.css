@@ -340,6 +340,13 @@ header .container {
   border-radius: 8px;
 }
 
+.transaction-card {
+  background: var(--eerie-black-1);
+  padding: 20px;
+  border: 1px solid var(--onyx-2);
+  border-radius: 8px;
+}
+
 .product-banner {
   position: relative;
   height: 210px;
@@ -862,6 +869,13 @@ header .container {
     max-width: 400px;
     margin: auto;
     background-color: var(--purple);
+    padding:30px;
+  }
+
+  .transaction-container {
+    max-width: 1000px;
+    margin: auto;
+    background-color: var(--eerie-black-2);
     padding:30px;
   }
 
